@@ -215,7 +215,7 @@ submitYourClaim.list.item4 = the information you have provided is correct, to th
 
 selectTaxYearsToClaimFor.title = Which tax years are you claiming for?
 selectTaxYearsToClaimFor.heading = Which tax years are you claiming for?
-selectTaxYearsToClaimFor.hintText = Select all that apply.
+selectTaxYearsToClaimFor.hintText = Select all that apply
 selectTaxYearsToClaimFor.option1 = This tax year (6 April 2021 to 5 April 2022)
 selectTaxYearsToClaimFor.option2 = Previous tax years
 selectTaxYearsToClaimFor.error.required = Select at least one option
